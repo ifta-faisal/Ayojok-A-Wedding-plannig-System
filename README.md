@@ -108,6 +108,24 @@ The application uses SQLite with the following tables:
 - `POST /api/bookings` - Create vendor booking (requires auth)
 - `GET /api/bookings` - Get user's bookings (requires auth)
 
+## 📊 System Design
+
+### 📌 Context Diagram
+![Context Diagram](Context.png)
+
+### 📌 DFD (Level 1)
+![DFD Level 1](DFD.png)
+
+### 📌 Use-Case Diagram
+![Use Case Diagram](Use_Case.png)
+
+### 📌 Activity Diagram
+![Activity Diagram](Activity.png)
+
+### 📌 Swimlane Diagram
+![Swimlane Diagram](Swimlane.png)
+---
+
 ## 🛠️ Development
 
 ### Running Both Frontend and Backend
